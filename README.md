@@ -2,6 +2,10 @@
 
 <p><a href="https://form-auth-react.herokuapp.com/" target="_blank">Итоговый результат</a> размещен на хостинге Heroku.</p>
 
+### О проекте
+
+Отзывчивая форма с имитацией регистрации
+
 ### Инструкция
 
 <p>Верный логин: steve.jobs@example.com</p>
