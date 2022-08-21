@@ -11,7 +11,7 @@ import {
 } from "./AuthPage.styles"
 
 import { useForm } from "react-hook-form"
-import { Loader } from "../Loader/Loader"
+import { Loader } from "../../components/Loader/Loader"
 
 type AuthPageProps = {
     setIsAuthenticated: Function

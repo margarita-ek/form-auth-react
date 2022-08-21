@@ -1,7 +1,7 @@
 import { useState } from "react"
 
 import { StyledWrapper } from "./App.styles"
-import Header from "./Header/Header"
+import Header from "./components/Header/Header"
 
 import { useAppRoutes } from "./routes"
 

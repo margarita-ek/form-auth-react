@@ -1,7 +1,7 @@
 import { Routes, Route } from "react-router-dom"
 
-import AuthPage from "./AuthPage/AuthPage"
-import ProfilePage from "./ProfilePage/ProfilePage"
+import AuthPage from "./pages/AuthPage/AuthPage"
+import ProfilePage from "./pages/ProfilePage/ProfilePage"
 
 export const useAppRoutes = (isAuthenticated, setIsAuthenticated) => {
     if (isAuthenticated) {
